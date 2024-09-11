@@ -19,39 +19,39 @@ import { sendDataToGA } from './utils/events';
 
 const data = [
   {
-    colors: ['#AA2530', '#2C2D31'],
-    img: brelok,
-    imgBg: '#F9DFE0',
-    price: 2490,
-    title: 'Брелок',
-  },
-  {
-    colors: ['#AA2530', '#2C2D31'],
-    img: chehol,
-    imgBg: '#A3A7B7',
-    price: 10990,
-    title: 'Кожаный чехол на iPhone',
+    colors: [],
+    img: kulon,
+    imgBg: '#DACFCF',
+    price: 7590,
+    title: 'Браслет с шармом',
   },
   {
     colors: ['#AA2530', '#2C2D31', '#8F795F'],
     img: braslet,
     imgBg: '#DAD4CF',
-    price: 5890,
+    price: 7490,
     title: 'Браслет',
   },
   {
     colors: ['#FFFFFF', '#2C2D31', '#F9DFE0'],
     img: kolco,
     imgBg: '#CFD9DA',
-    price: 7890,
+    price: 9990,
     title: 'Керамическое кольцо',
   },
   {
-    colors: [],
-    img: kulon,
-    imgBg: '#DACFCF',
-    price: 5990,
-    title: 'Браслет с шармом',
+    colors: ['#AA2530', '#2C2D31'],
+    img: chehol,
+    imgBg: '#A3A7B7',
+    price: 12990,
+    title: 'Кожаный чехол на iPhone',
+  },
+  {
+    colors: ['#AA2530', '#2C2D31'],
+    img: brelok,
+    imgBg: '#F9DFE0',
+    price: 2990,
+    title: 'Брелок',
   },
 ];
 
